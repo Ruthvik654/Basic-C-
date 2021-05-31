@@ -1,7 +1,7 @@
 main()
 {
  int i,j, sum;
- i=6'j=8
+ i=9'j=10
  printf(" The sum of 2 no.s is : %d", sum);
  getch():
  }
